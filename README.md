@@ -1,6 +1,7 @@
 
 # SDNotes
-<img width="1440" alt="banner" src="https://github.com/ishaanbedi/SDNotes/assets/39641326/d2cb42cb-7233-4d21-a8b9-33b12030d2d1">
+
+<img width="1440" alt="Screenshot 2023-06-06 at 9 52 24 PM" src="https://github.com/ishaanbedi/SDNotes/assets/39641326/818e50e0-2294-400e-a101-492f473f681e">
 
 Apple just unveiled [**SwiftData**](https://developer.apple.com/xcode/swiftdata/), the all new framework for Apple Platforms, at WWDC 2023!
 
