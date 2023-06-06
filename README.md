@@ -58,3 +58,8 @@ struct SDNotesApp: App {
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+### PS: The Icon
+<img width="256" height="256" alt="icon" src="https://github.com/ishaanbedi/SDNotes/assets/39641326/aeed4741-e6ce-44af-af24-cf3f35fbc0ce">
+<br/>
+I generated this super cool icon for this app in less than 10 seconds, oh boy, DALL-E is so good!
