@@ -14,14 +14,26 @@ I've tried to demonstrate CRUD operations using this app:
 
 ### Creating a new note and Reading it:
 
-https://github.com/ishaanbedi/SDNotes/assets/39641326/de43f99b-2996-4a57-8a54-cb3d7c9624c9
+
+
+
+https://github.com/ishaanbedi/SDNotes/assets/39641326/b2c3f71a-d653-473e-914a-bc4e493d64a8
+
 
 ### Updating an existing note:
 
-https://github.com/ishaanbedi/SDNotes/assets/39641326/623e7b4d-0fed-4ceb-8bce-dbf831e4fc7c
+
+
+https://github.com/ishaanbedi/SDNotes/assets/39641326/9ba3f4a8-8365-419a-aa83-c3bdb65be775
+
+
 
 ### Deleting an existing note:
-https://github.com/ishaanbedi/SDNotes/assets/39641326/267463d6-f992-404a-ac2f-47ad37244ede
+
+
+
+https://github.com/ishaanbedi/SDNotes/assets/39641326/1fad4aa7-c3c6-48e5-b998-41ef98fadd34
+
 
 ## Model of a Note:
 ```swift
