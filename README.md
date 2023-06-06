@@ -4,7 +4,7 @@
 
 Apple just unveiled [**SwiftData**](https://developer.apple.com/xcode/swiftdata/), the all new framework for Apple Platforms, at WWDC 2023!
 
-Here's an iOS note taking application built to demonstrate various operations and persistance of data in, SwiftData and SwiftUI!
+Here's an iOS note taking application built to demonstrate various operations and persistance of data in SwiftData and SwiftUI!
 
 
 ## Working of the Application
